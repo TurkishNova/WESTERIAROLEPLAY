@@ -1,9 +1,9 @@
 {
-    "BOT_TOKEN": "",
-    "SERVER_URL": "",
+    "BOT_TOKEN": "ODU0NzMwMTE4Njk0MDQzNjk5.YMoLdA.6p1sYKhQycl8a98sKPCh3kXSsEY",
+    "SERVER_URL": "217.195.197.25",
     "SERVER_LOGO": "",
-    "SERVER_NAME": "",
-    "PREFIX": "",
+    "SERVER_NAME": "Westeria Roleplay",
+    "PREFIX": "!",
     "CHANNELS_ID":{
         "SUGGESTIONS":"",
         "MEMES":"",
